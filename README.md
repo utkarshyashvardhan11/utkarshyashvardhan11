@@ -1,6 +1,6 @@
 # Utkarsh
 
-Researcher at the intersection of **Applied Mathematics** and **Computer Science**, focusing on **Applied Category Theory (ACT)**, **Singular Learning Theory (SLT)**, **Scientific Machine Learning (SciML)**, and **Quantum Machine Learning (QML)**.
+Researcher at the intersection of **Applied Mathematics** and **Computer Science**, focusing on **Applied Category Theory (ACT)**, **Singular Learning Theory (SLT)** and **Safe AI**. Side research interests include **Scientific Machine Learning (SciML)**, and **Quantum Machine Learning (QML)**.
 
 ---
 
