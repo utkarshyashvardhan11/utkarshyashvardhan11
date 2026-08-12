@@ -2,7 +2,7 @@
 
 Incoming PhD applicant with a strong foundation in **Applied Mathematics** and **Computer Science**. 
 
-My core objective is to pursue doctoral research in **Technical AI Safety**, leveraging **Applied Category Theory (ACT)**, **Singular Learning Theory (SLT)**, and **Formal Methods**.
+My core objective is to pursue doctoral research in **Technical AI Safety**, leveraging **Applied Category Theory (ACT)** and **Singular Learning Theory (SLT)**.
 
 ---
 
@@ -17,8 +17,8 @@ I am interested in constructing compositional, mathematically sound frameworks f
 
 ### 💡 Side & Exploratory Interests
 
-* **Scientific Machine Learning (SciML):** Differential equations on manifolds and physics-informed architectures.
-* **Quantum Machine Learning (QML):** Parameterized quantum circuits and hybrid optimization algorithms.
+* **Scientific Machine Learning (SciML)
+* **Quantum Machine Learning (QML)
 
 ---
 
@@ -31,24 +31,16 @@ I am interested in constructing compositional, mathematically sound frameworks f
 
 ### 🎓 Educational Background
 
-* **M.S. in Computer Science (Machine Learning)** — *Georgia Institute of Technology*
-* **M.Sc. (Hons) Mathematics & B.E. (Hons) Computer Science** — *BITS Pilani, Pilani Campus*
-
----
-
-### 💻 Codebase & Coursework Repositories
-
-* **[cslt-explorations](#)** *(In Progress)*: Formalizing toy models and compositional bounds for local learning coefficients ($\lambda$) using Julia (`Catlab.jl`).
-* **[ml-systems-portfolio](#)**: Benchmark analyses of classical learning algorithms, metaheuristic weight optimization (RHC, SA, GA), unsupervised representation learning, and MDP decision dynamics.
-* **[sciml-qml-experiments](#)**: Exploratory implementations of physics-informed neural networks and quantum circuit optimization.
+* **M.S. in Computer Science (Machine Learning Specialization)** — *Georgia Institute of Technology*
+* **M.Sc. Mathematics & B.E. Computer Science** — *BITS Pilani*
 
 ---
 
 ### 🛠️ Technical Capabilities
 
-* **Mathematics:** Applied Category Theory (Monoidal Categories, Optics, Lenses), Algebraic Geometry, Real & Complex Analysis, Abstract Algebra.
-* **Frameworks & Languages:** Python, Julia, PyTorch, JAX, LaTeX, Git.
-* **Specialized Libraries:** Catlab.jl, SymPy, Qiskit.
+* **Languages:** C/C++, Python, Julia, MATLAB, Java, C#, SQL
+* **ML & Scientific:** PyTorch, Flower, NumPy, Scikit-learn, Qiskit, Pymc, Networkx, Pandas, Matplotlib
+* **Developer Tools:** Git, VS Code, Jupyter Notebook, IntelliJ IDEA, Unity, LaTeX
 
 ---
 
