@@ -1,4 +1,4 @@
-# Utkarsh
+# Utkarsh Yashvardhan
 
 Incoming PhD applicant with a strong foundation in **Applied Mathematics** and **Computer Science**. 
 
