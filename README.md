@@ -50,4 +50,4 @@ I am actively seeking PhD positions and research co-supervision in Applied Categ
 
 * **Personal Website:** 
 * **Email:** [uyashvardhan3@gatech.edu](mailto:uyashvardhan3@gatech.edu)
-* **LinkedIn:** [your-website-domain.com](https://your-website-domain.com)](https://www.linkedin.com/in/utkarshyashvardhan11/)
+* **LinkedIn:** [linkedin.com/in/utkarshyashvardhan11](https://www.linkedin.com/in/utkarshyashvardhan11/)
