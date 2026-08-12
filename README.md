@@ -48,6 +48,6 @@ I am interested in constructing compositional, mathematically sound frameworks f
 
 I am actively seeking PhD positions and research co-supervision in Applied Category Theory, SLT, and Technical AI Safety.
 
-* **Personal Website:** [your-website-domain.com](https://your-website-domain.com)
-* **Email:** [your.email@gatech.edu](mailto:your.email@gatech.edu)
-* **LinkedIn:** [linkedin.com/in/utkarsh](https://linkedin.com)
+* **Personal Website:** 
+* **Email:** [uyashvardhan3@gatech.edu](mailto:uyashvardhan3@gatech.edu)
+* **LinkedIn:** [your-website-domain.com](https://your-website-domain.com)](https://www.linkedin.com/in/utkarshyashvardhan11/)
