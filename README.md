@@ -8,24 +8,7 @@ My core objective is to pursue doctoral research in **Technical AI Safety**, lev
 
 ### 🎯 Primary Research Direction
 
-I am interested in constructing compositional, mathematically sound frameworks for neural network interpretability and safety:
-
-* **Compositional Singular Learning Theory (CSLT):** Unifying Categorical Optics ($\mathbf{Para}(\mathbf{Optic})$) and Algebraic Geometry to model developmental phase transitions and compute local learning coefficients ($\lambda$) compositionally.
-* **Formalized Mechanistic Interpretability:** Mathematically defining functional "circuits" as minimal singular sub-optics on degenerate loss manifolds.
-
----
-
-### 💡 Side & Exploratory Interests
-
-* **Scientific Machine Learning (SciML)
-* **Quantum Machine Learning (QML)
-
----
-
-### 📄 Draft Research Proposal
-
-**Compositional Singular Learning Theory: Categorical Optics and Lenses for Emergent Phase Transitions in Mechanistic Interpretability**
-> *Abstract:* While Singular Learning Theory (SLT) quantifies structural complexity via the local learning coefficient ($\lambda$), global calculation across large architectures is analytically intractable. This proposal introduces a compositional calculus using parameterized lenses and optics to bound and compute local learning coefficients modularly across network sub-components.
+I work on the mathematics of degeneracy in neural networks. Networks are built by composing parts, and singular learning theory gives us a quantity — the learning coefficient — that measures how much of a model's parameter space is doing real work. But it can currently only be computed for a whole model, and only in isolated cases. I'm interested in computing it from the parts, and in whether the resulting structure predicts where interpretability findings are reliable. The tools are algebraic geometry, singular learning theory, and applied category theory.
 
 ---
 
@@ -48,6 +31,6 @@ I am interested in constructing compositional, mathematically sound frameworks f
 
 I am actively seeking PhD positions and research co-supervision in Applied Category Theory, SLT, and Technical AI Safety.
 
-* **Personal Website:** 
+* **Personal Website:** [utkarshyashvardhan11.github.io](https://www.utkarshyashvardhan11.github.io) 
 * **Email:** [uyashvardhan3@gatech.edu](mailto:uyashvardhan3@gatech.edu)
 * **LinkedIn:** [linkedin.com/in/utkarshyashvardhan11](https://www.linkedin.com/in/utkarshyashvardhan11/)
