@@ -54,5 +54,5 @@ My core objective is to pursue doctoral research in **Technical AI Safety**, lev
 I am actively seeking PhD positions and research co-supervision in Applied Category Theory, SLT, and Technical AI Safety.
 
 * **Personal Website:** [utkarshyashvardhan11.github.io](https://www.utkarshyashvardhan11.github.io) 
-* **Email:** [uyashvardhan3@gatech.edu](mailto:uyashvardhan3@gatech.edu)
+* **Email:** [utkarshyashvardhan11@gmail.com](mailto:utkarshyashvardhan11@gmail.com)
 * **LinkedIn:** [linkedin.com/in/utkarshyashvardhan11](https://www.linkedin.com/in/utkarshyashvardhan11/)
