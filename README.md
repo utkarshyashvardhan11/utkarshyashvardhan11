@@ -7,19 +7,20 @@ My core objective is to pursue doctoral research in **Technical AI Safety**, lev
 ---
 ### 🧩 Primary Research Direction
 
-* The question: how does degeneracy behave when neural network components are composed?
-* The measure: the learning coefficient from singular learning theory, which captures how much of a parameter space is effectively in use.
-* The gap: it is known exactly only in special cases and estimated only for whole models, never assembled from parts.
-* The application: whether compositional degeneracy predicts where learned features and circuit descriptions stay stable.
-* The tools: algebraic geometry, singular learning theory, applied category theory.
+* **The question:** how does degeneracy behave when neural network components are composed?
+* **The measure:** the learning coefficient from singular learning theory, which captures how much of a parameter space is effectively in use.
+* **The gap:** it is known exactly only in special cases and estimated only for whole models, never assembled from parts.
+* **The application:** whether compositional degeneracy predicts where learned features and circuit descriptions stay stable.
+* **The tools:** algebraic geometry, singular learning theory, applied category theory.
+---
 
 ### 🛡️ Applied Research Direction
 
-* The question: how should a model behave after it has been made to forget something: answer, abstain, or express uncertainty?
-* The measure: calibration and abstention quality alongside forget-set accuracy, so forgetting is judged by behaviour, not just by whether the original answer disappears.
-* The gap: unlearning is usually judged against a model retrained without the data, but such a model often guesses rather than saying "I don't know", and refusing only on forgotten topics can itself reveal what was removed.
-* The application: interactive AI systems that honour deletion requests without hallucinating or leaking what was forgotten.
-* The tools: machine unlearning methods, Bayesian uncertainty and calibration, LLM evaluation.
+* **The question:** how should a model behave after it has been made to forget something: answer, abstain, or express uncertainty?
+* **The measure:** calibration and abstention quality alongside forget-set accuracy, so forgetting is judged by behaviour, not just by whether the original answer disappears.
+* **The gap:** unlearning is usually judged against a model retrained without the data, but such a model often guesses rather than saying "I don't know", and refusing only on forgotten topics can itself reveal what was removed.
+* **The application:** interactive AI systems that honour deletion requests without hallucinating or leaking what was forgotten.
+* **The tools:** machine unlearning methods, Bayesian uncertainty and calibration, LLM evaluation.
 ---
 
 ### 🎓 Educational Background
