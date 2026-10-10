@@ -1,6 +1,6 @@
 # Utkarsh Yashvardhan
 
-Incoming PhD applicant with a strong foundation in **Applied Mathematics** and **Computer Science**. 
+PhD applicant with a strong foundation in **Applied Mathematics** and **Computer Science**. 
 
 My core objective is to pursue doctoral research in **Technical AI Safety**, leveraging **Applied Category Theory (ACT)** and **Singular Learning Theory (SLT)**.
 
@@ -25,7 +25,7 @@ My core objective is to pursue doctoral research in **Technical AI Safety**, lev
 
 ### 🎓 Educational Background
 
-* **M.S. in Computer Science (Machine Learning Specialization):** *Georgia Institute of Technology*
+* **M.S. in Computer Science (Machine Learning Specialization):** *Georgia Institute of Technology* (Aug 2024 – Dec 2026, expected)
 * **M.Sc. Mathematics & B.E. Computer Science:** *BITS Pilani*
 
 ---
@@ -33,7 +33,7 @@ My core objective is to pursue doctoral research in **Technical AI Safety**, lev
 ### 🛠️ Technical Capabilities
 
 * **Languages:** C/C++, Python, Julia, MATLAB, Java, C#, SQL
-* **ML & Scientific:** PyTorch, Flower, NumPy, Scikit-learn, Qiskit, Pymc, Turing, Networkx, Pandas, Matplotlib
+* **ML & Scientific:** PyTorch, Flower, NumPy, Scikit-learn, Qiskit, PyMC, Turing.jl, NetworkX, Pandas, Matplotlib
 * **Developer Tools:** Git, VS Code, Jupyter Notebook, IntelliJ IDEA, Unity, LaTeX
 
 ---
@@ -43,7 +43,7 @@ My core objective is to pursue doctoral research in **Technical AI Safety**, lev
 * **Bayesian Estimation of Differential Equations (SEIR Model):** [Github Link](https://github.com/utkarshyashvardhan11/bayesian_statistics_project)
     * **Description:** This project demonstrates the parameter estimation of the SEIR (Susceptible, Exposed, Infected, Recovered) model using Bayesian inference. The goal of this project is to solve the “inverse problem” of parameter estimation: utilizing noisy observational data to determine non-measurable model parameters with quantified uncertainty.
     * **Tech Stack:** `Turing.jl` (Probabilistic Programming), `OrdinaryDiffEq.jl` (Differential Equations), `StatsPlots.jl` (Data Visualization)
-* **JuliaTopOpt/SimpleTopOpt.jl Contributions:** [Github Link](https://github.com/JuliaTopOpt/SimpleTopOpt.jl/pulls)
+* **JuliaTopOpt/SimpleTopOpt.jl Contributions:** [Github Link]([https://github.com/JuliaTopOpt/SimpleTopOpt.jl/pulls](https://github.com/JuliaTopOpt/SimpleTopOpt.jl/pulls?q=is%3Apr+author%3Autkarshyashvardhan11))
     * **Description:** The contributions involve translating complex MATLAB-based topology optimization models (3D, stress, and buckling) into Julia using established academic literature and benchmarking the computational efficiency of the newly developed Julia implementations against their MATLAB counterparts.
     * **Tech Stack:** `SparseArrays.jl`, `LinearAlgebra.jl`, `Makie.jl/GLMakie.jl` for 3D visualization, `Roots.jl`, `Match.jl`, `Images.jl`, `JLD.jl`, `TimerOutputs.jl`, `MATLAB.jl` for cross-validation, `Test.jl`
 
@@ -51,8 +51,8 @@ My core objective is to pursue doctoral research in **Technical AI Safety**, lev
 
 ### 📫 Contact & Collaborations
 
-I am actively seeking PhD positions and research co-supervision in Applied Category Theory, SLT, and Technical AI Safety.
+I am applying for PhD positions in technical AI safety, singular learning theory, and applied category theory, and am happy to talk with researchers working in these areas.
 
-* **Personal Website:** [utkarshyashvardhan11.github.io](https://www.utkarshyashvardhan11.github.io) 
+* **Personal Website:** [utkarshyashvardhan11.github.io](https://utkarshyashvardhan11.github.io) 
 * **Email:** [utkarshyashvardhan11@gmail.com](mailto:utkarshyashvardhan11@gmail.com)
 * **LinkedIn:** [linkedin.com/in/utkarshyashvardhan11](https://www.linkedin.com/in/utkarshyashvardhan11/)
