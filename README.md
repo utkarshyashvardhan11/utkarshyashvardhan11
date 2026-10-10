@@ -26,7 +26,7 @@ My core objective is to pursue doctoral research in **Technical AI Safety**, lev
 ### 🎓 Educational Background
 
 * **M.S. in Computer Science (Machine Learning Specialization):** *Georgia Institute of Technology* (Aug 2024 – Dec 2026, expected)
-* **M.Sc. Mathematics & B.E. Computer Science:** *BITS Pilani*
+* **M.Sc. Mathematics & B.E. Computer Science:** *BITS Pilani* (2019 - 2024)
 
 ---
 
