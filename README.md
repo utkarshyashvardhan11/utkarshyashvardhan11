@@ -43,7 +43,7 @@ My core objective is to pursue doctoral research in **Technical AI Safety**, lev
 * **Bayesian Estimation of Differential Equations (SEIR Model):** [Github Link](https://github.com/utkarshyashvardhan11/bayesian_statistics_project)
     * **Description:** This project demonstrates the parameter estimation of the SEIR (Susceptible, Exposed, Infected, Recovered) model using Bayesian inference. The goal of this project is to solve the “inverse problem” of parameter estimation: utilizing noisy observational data to determine non-measurable model parameters with quantified uncertainty.
     * **Tech Stack:** `Turing.jl` (Probabilistic Programming), `OrdinaryDiffEq.jl` (Differential Equations), `StatsPlots.jl` (Data Visualization)
-* **JuliaTopOpt/SimpleTopOpt.jl Contributions:** [Github Link]([https://github.com/JuliaTopOpt/SimpleTopOpt.jl/pulls](https://github.com/JuliaTopOpt/SimpleTopOpt.jl/pulls?q=is%3Apr+author%3Autkarshyashvardhan11))
+* **JuliaTopOpt/SimpleTopOpt.jl Contributions:** [Github Link](https://github.com/JuliaTopOpt/SimpleTopOpt.jl/pulls?q=is%3Apr+author%3Autkarshyashvardhan11)
     * **Description:** The contributions involve translating complex MATLAB-based topology optimization models (3D, stress, and buckling) into Julia using established academic literature and benchmarking the computational efficiency of the newly developed Julia implementations against their MATLAB counterparts.
     * **Tech Stack:** `SparseArrays.jl`, `LinearAlgebra.jl`, `Makie.jl/GLMakie.jl` for 3D visualization, `Roots.jl`, `Match.jl`, `Images.jl`, `JLD.jl`, `TimerOutputs.jl`, `MATLAB.jl` for cross-validation, `Test.jl`
 
